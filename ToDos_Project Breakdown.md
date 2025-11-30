@@ -55,7 +55,7 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 
 - [x] Load data *(Fabiano)*
     
-- [ ] Wrangles and cleans the data to the format necessary for the planned analysis **(From Planning phase if appropriate)** *(Fabiano)*
+- [x] Wrangles and cleans the data to the format necessary for the planned analysis **(From Planning phase if appropriate)** *(Fabiano)*
     
 - [ ] Performs a summary of the data set that is relevant for exploratory data analysis related to the planned analysis  **(From Planning phase if appropriate)**
     
@@ -96,7 +96,7 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 		- [ ] Recall (**To see if any glaring issues**)
 	- [ ] Additional visuals needed (scatterplot per model demonstrating result?)
 - [ ] Comment on the results of confusion metrics and model performances
-##### Player Types Exploration (Insight) (Riley)  (Word Count: ~ 200-300)
+#### Player Types Exploration (Insight) (Riley)  (Word Count: ~ 200-300)
 
 - [ ] Additional visual and graph for analysis **(Note we may not need all of these they are suggestions we mainly need to address "how does it differ from players `experience`?")**
 	- [ ] Show subscription rate by experience level
