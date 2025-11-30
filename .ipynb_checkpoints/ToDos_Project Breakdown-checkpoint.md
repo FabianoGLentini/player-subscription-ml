@@ -53,7 +53,7 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 
 ### Set up and intro to data: (Maeve/Fabiano)  (Word Count: ~ 300-400)
 
-- [ ] Load data *(Fabiano)*
+- [x] Load data *(Fabiano)*
     
 - [ ] Wrangles and cleans the data to the format necessary for the planned analysis **(From Planning phase if appropriate)** *(Fabiano)*
     
