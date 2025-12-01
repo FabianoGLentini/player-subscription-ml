@@ -79,15 +79,15 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 	- [-] K-fold cross-validation to find k
 	- [ ] Fit Models
 		**Main models:**
-		- [ ] Age + Gender + played_hours
-		- [ ] Age + played_hours
-		- [ ] Age + Gender
-		- [ ] Gender + played_hours
+		- [-] Age + Gender + played_hours
+		- [-] Age + played_hours
+		- [-] Age + Gender
+		- [-] Gender + played_hours
 		
 		**Potential additional models if useful:**
-		- [ ] Age
-		- [ ] Gender
-		- [ ] played_hours
+		- [-] Age
+		- [-] Gender
+		- [-] played_hours
 		
     
 - [ ] Creates a visualization of the analysis 
