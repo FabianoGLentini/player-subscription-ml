@@ -75,8 +75,8 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 
 
 - [ ] Performs the data analysis/training
-	- [ ] Split/Scale/Encode
-	- [ ] K-fold cross-validation to find k
+	- [-] Split/Scale/Recipe
+	- [-] K-fold cross-validation to find k
 	- [ ] Fit Models
 		**Main models:**
 		- [ ] Age + Gender + played_hours
