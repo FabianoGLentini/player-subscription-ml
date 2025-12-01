@@ -59,7 +59,7 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
     
 - [ ] Performs a summary of the data set that is relevant for exploratory data analysis related to the planned analysis  **(From Planning phase if appropriate)**
     
-- [ ] Creates a visualization of the dataset that is relevant for exploratory data analysis related to the planned analysis **(Histogram could be good?)**
+- [ ] Creates a visualization of the dataset that is relevant for exploratory data analysis related to the planned analysis **(Histogram could be good, or something that work out well in the planning stage?)**
 - [ ] Add additional comment/analysis of perceived issues for our experiment **(From Planning phase if appropriate, "I am unsure if this is expected of us or not but its already been done so if we have room might as well include it")**
 ---
 ### Training and Analysis: (Fabiano)  (Word Count: ~ 400-500)
@@ -96,6 +96,8 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 		- [ ] Recall (**To see if any glaring issues**)
 	- [ ] Additional visuals needed (scatterplot per model demonstrating result?)
 - [ ] Comment on the results of confusion metrics and model performances
+
+
 #### Player Types Exploration (Insight) (Riley)  (Word Count: ~ 200-300)
 
 - [ ] Additional visual and graph for analysis **(Note we may not need all of these they are suggestions we mainly need to address "how does it differ from players `experience`?")**
