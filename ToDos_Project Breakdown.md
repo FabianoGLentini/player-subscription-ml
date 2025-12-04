@@ -90,10 +90,11 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 		- [-] played_hours
 		
     
-- [ ] Creates a visualization of the analysis 
+- [-] Creates a visualization of the analysis 
 	- [ ] Confusion Metrics for model comparison Using Accuracy
 		- [ ] Precision (**we value this more**)
 		- [ ] Recall (**To see if any glaring issues**)
+        - [ ] Add std_err line in performance graph
 	- [ ] Additional visuals needed (scatterplot per model demonstrating result?)
 - [ ] Comment on the results of confusion metrics and model performances
 
