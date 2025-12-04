@@ -75,6 +75,8 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 
 
 - [ ] Performs the data analysis/training
+
+    - [ ] Fix seed and make them all match 22/ or where appropriate? 
 	- [-] Split/Scale/Recipe
 	- [-] K-fold cross-validation to find k
 	- [ ] Fit Models
@@ -91,10 +93,11 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 		
     
 - [-] Creates a visualization of the analysis 
-	- [ ] Confusion Metrics for model comparison Using Accuracy
-		- [ ] Precision (**we value this more**)
-		- [ ] Recall (**To see if any glaring issues**)
+	- [-] Confusion Metrics for model comparison Using Accuracy
+		- [-] Precision (**we value this more**)
+		- [-] Recall (**To see if any glaring issues**)
         - [ ] Add std_err line in performance graph
+    - [ ] Finalize model
 	- [ ] Additional visuals needed (scatterplot per model demonstrating result?)
 - [ ] Comment on the results of confusion metrics and model performances
 
