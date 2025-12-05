@@ -57,10 +57,10 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
     
 - [x] Wrangles and cleans the data to the format necessary for the planned analysis **(From Planning phase if appropriate)** *(Fabiano)*
     
-- [ ] Performs a summary of the data set that is relevant for exploratory data analysis related to the planned analysis  **(From Planning phase if appropriate)**
+- [x] Performs a summary of the data set that is relevant for exploratory data analysis related to the planned analysis  **(From Planning phase if appropriate)**
     
-- [ ] Creates a visualization of the dataset that is relevant for exploratory data analysis related to the planned analysis **(Histogram could be good, or something that work out well in the planning stage?)**
-- [ ] Add additional comment/analysis of perceived issues for our experiment **(From Planning phase if appropriate, "I am unsure if this is expected of us or not but its already been done so if we have room might as well include it")**
+- [ ] Creates a visualization of the dataset that is relevant for exploratory data analysis related to the planned analysis **(Histogram could be good, or something that work out well in the planning stage?)** (Maeve)
+- [ ] Add additional comment/analysis of perceived issues for our experiment **(From Planning phase if appropriate, "I am unsure if this is expected of us or not but its already been done so if we have room might as well include it")** (Maeve)
 ---
 ### Training and Analysis: (Fabiano)  (Word Count: ~ 400-500)
 
