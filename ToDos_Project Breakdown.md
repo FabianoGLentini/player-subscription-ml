@@ -81,15 +81,21 @@ What players' `Age`, `gender`, `experience`, and `played_hours` can best predict
 	- [-] K-fold cross-validation to find k
 	- [-] Fit Models
 		**Main models:**
-		- [-] Age + Gender + played_hours
+		- [ ] Age + Gender + played_hours + experience
 		- [-] Age + played_hours
 		- [-] Age + Gender
 		- [-] Gender + played_hours
-		
+        - [ ] Gender + played_hours + experience
+		- [ ] played_hours + experience
+        - [ ]  Gender + experience
+        - [ ] Age + played_hours + experience
+        - [ ] Age + experience
+        - [ ] Age + Gender + experience
 		**Potential additional models if useful:**
 		- [-] Age
 		- [-] Gender
 		- [-] played_hours
+        - [ ] experience
 		
     
 - [-] Creates a visualization of the analysis 
