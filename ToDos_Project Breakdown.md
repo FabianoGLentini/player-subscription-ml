@@ -3,7 +3,7 @@
 Which player characteristics and behaviours best predict subscription to a game-related newsletter, and how do these differ among player types?
 
 ## Our Question: 
-What players' `Age`, `gender`, and `played_hours` can best predict whether they would `subscribe` to a gaming newsletter, and how does it differ from players `experience`?
+What players' `Age`, `gender`, `experience`, and `played_hours` can best predict whether they would `subscribe` to a gaming newsletter?
 
 
 
@@ -79,7 +79,7 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
     - [ ] Fix seed and make them all match 22/ or where appropriate? 
 	- [-] Split/Scale/Recipe
 	- [-] K-fold cross-validation to find k
-	- [ ] Fit Models
+	- [-] Fit Models
 		**Main models:**
 		- [-] Age + Gender + played_hours
 		- [-] Age + played_hours
@@ -96,25 +96,17 @@ What players' `Age`, `gender`, and `played_hours` can best predict whether they 
 	- [-] Confusion Metrics for model comparison Using Accuracy
 		- [-] Precision (**we value this more**)
 		- [-] Recall (**To see if any glaring issues**)
-        - [ ] Add std_err line in performance graph
-    - [ ] Finalize model
+    - [X] Finalize model
 	- [ ] Additional visuals needed (scatterplot per model demonstrating result?)
 - [ ] Comment on the results of confusion metrics and model performances
 
 
-#### Player Types Exploration (Insight) (Riley)  (Word Count: ~ 200-300)
-
-- [ ] Additional visual and graph for analysis **(Note we may not need all of these they are suggestions we mainly need to address "how does it differ from players `experience`?")**
-	- [ ] Show subscription rate by experience level
-	- [ ] Player_hour relates to experience
-	- [ ] Age vs experience
-- [ ] Commend/Analyze Results 
     
 ---
 ### Discussion: (Riley)  (Word Count: ~ 300-400)
     
 
-- [ ] Summarize what you found
+- [ ] Summarize what you found **(use the metric info from trained model possibly?/ riterate the comments put together in the training and modeling stage)**
     
 - [ ] Discuss whether this is what you expected to find **(Check Planning Faze I think there may be some info to reference there)**
     
