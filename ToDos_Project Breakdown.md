@@ -77,19 +77,19 @@ What players' `Age`, `gender`, `experience`, and `played_hours` can best predict
 - [ ] Performs the data analysis/training
 
     - [ ] Fix seed and make them all match 22/ or where appropriate? 
-	- [-] Split/Scale/Recipe
+	- [x] Split/Scale/Recipe
 	- [-] K-fold cross-validation to find k
 	- [-] Fit Models
 		**Main models:**
-		- [-] Age + Gender + played_hours
-		- [-] Age + played_hours
-		- [-] Age + Gender
-		- [-] Gender + played_hours
-		
+		- [x] Age + Gender + played_hours + experience
+		- [x] Age + played_hours
+		- [x] Age + Gender
+		- [x] Gender + played_hours
 		**Potential additional models if useful:**
-		- [-] Age
-		- [-] Gender
-		- [-] played_hours
+		- [x] Age
+		- [x] Gender
+		- [x] played_hours
+
 		
     
 - [-] Creates a visualization of the analysis 
